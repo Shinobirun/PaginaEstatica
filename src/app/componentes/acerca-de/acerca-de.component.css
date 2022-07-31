@@ -1,0 +1,43 @@
+    .row {
+        padding: 20px;
+    }
+
+    #acerca {
+        /*background-color: rgb(28, 72, 159);
+    background: linear-gradient(to bottom, rgb(28, 72, 159), rgb(18, 100, 141)); */
+    }
+
+    .foto {
+        width: 65%;
+        height: 300px;
+        padding-top: 5%;
+        border-radius: 50%;
+        filter: opacity(.8);
+    }
+
+    .abajo {
+        padding-top: 2%;
+    }
+
+    .nombre {
+        font-size: 45px;
+        font-weight: 800;
+        color: rgb(23, 47, 133);
+    }
+
+    .titulo {
+        padding-top: 5%;
+        font-size: 35px;
+        font-weight: 500;
+        color: rgb(23, 47, 133);
+    }
+
+    .acerca {
+        font-size: 27px;
+        font-weight: 400;
+        color: rgb(23, 47, 133);
+    }
+
+    .centra {
+        padding-top: 2%;
+    }

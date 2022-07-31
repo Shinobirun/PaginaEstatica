@@ -1,0 +1,28 @@
+.container-fluid {
+    padding-bottom: 1.2%;
+}
+
+.principal {
+    color: rgb(23, 47, 133);
+    font-size: 60px;
+    font-family: 'Concert One', cursive;
+    padding: 1.2%;
+    padding-top: 5%;
+}
+
+.nav {
+    background-color: rgb(240, 187, 118)
+}
+
+.adecco {
+    height: 25px;
+}
+
+b {
+    color: transparent;
+}
+
+.accordion-body {
+    background-color: rgba(233, 169, 86, 0.783);
+    color: rgb(19, 119, 232);
+}
